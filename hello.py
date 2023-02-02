@@ -1,4 +1,10 @@
-def add(x, y):
-    return x + y
+def toyou(x):
+    return f"hi {x}"
 
-print(f"This is the sum: 1 + 2 = {add(1,2)}")
+
+def add(x):
+    return x + 1
+
+
+def subtract(x):
+    return x - 1
