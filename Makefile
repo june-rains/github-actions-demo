@@ -2,6 +2,10 @@ install-aws:
 	pip3 install --upgrade pip &&\
 		pip3 install -r requirements-aws.txt
 
+install-azure:
+	pip3 install --upgrade pip &&\
+		pip3 install -r requirements-azure.txt
+
 format:
 	black *.py
 
