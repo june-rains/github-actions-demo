@@ -3,4 +3,4 @@
 [![Python GCP](https://github.com/june-rains/github-actions-demo/actions/workflows/gcp.yml/badge.svg)](https://github.com/june-rains/github-actions-demo/actions/workflows/gcp.yml)
 
 # Github-Actions-Demo
-This is a repo about building a Continuous Integration (CD) Pipeline that works on multi Clouds
+This is a repo about building a Continuous Integration (CI) Pipeline that works on multi Clouds
